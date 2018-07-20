@@ -1,2 +1,2 @@
 # Salesforce
-This is for Salesforce Learning 
+Learning Continuous Integration in Salesforce using Git!
