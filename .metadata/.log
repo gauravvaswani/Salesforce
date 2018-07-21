@@ -138,3 +138,39 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY mega.js.tern 1 0 2018-07-21 18:20:46.466
 !MESSAGE Analyzed Lightning System JavaScript Support in 78.29 ms
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:44.994
+!MESSAGE  WARN [2018-07-21 18:36:44,988] (ComponentResource.java:loadFromFile:430) - File 'src/package.xml' does not exist
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:51.989
+!MESSAGE  WARN [2018-07-21 18:36:51,987] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Salesforce_Mobile_Dashboards.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:51.992
+!MESSAGE  WARN [2018-07-21 18:36:51,990] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Forcecom_Migration_Tool.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:51.994
+!MESSAGE  WARN [2018-07-21 18:36:51,992] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Workbench.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:51.997
+!MESSAGE  WARN [2018-07-21 18:36:51,995] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Dataloader_Bulk.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:52.000
+!MESSAGE  WARN [2018-07-21 18:36:51,998] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Forcecom_IDE.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:52.001
+!MESSAGE  WARN [2018-07-21 18:36:52,000] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Salesforce_for_Outlook.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:52.003
+!MESSAGE  WARN [2018-07-21 18:36:52,002] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Dataloader_Partner.
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-07-21 18:36:52.005
+!MESSAGE  WARN [2018-07-21 18:36:52,003] (ProjectController.java:handleRetrieveResults:694) - Failed to retrieve: 'Salesforce Connected Apps/package.xml': Metadata API received improper input. Please ensure file name and capitalization is correct. Load of metadata from db failed for metadata of type:ConnectedApp and file name:Salesforce_Touch.
+
