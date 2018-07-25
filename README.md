@@ -1,2 +1,2 @@
 # Salesforce
-- Learning Continuous Integration in Salesforce using Git!
+- Learning Continuous Integration in Salesforce using GIT & Jenkins!
