@@ -6,5 +6,9 @@
     <tab>Customer__c</tab>
     <tab>Invoice__c</tab>
     <tab>Support_Tree__c</tab>
+<<<<<<< HEAD
+    <tab>Candidate__c</tab>
+=======
+>>>>>>> master
     <uiType>Lightning</uiType>
 </CustomApplication>
