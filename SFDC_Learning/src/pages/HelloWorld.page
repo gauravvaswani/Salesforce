@@ -1,8 +1,8 @@
 <apex:page standardController="Position__c" >
 	<b>Hello {!$User.FirstName}!</b> <br/> <br/>
-	<apex:form>
+	<apex:form >
 		<apex:pageBlock mode="edit">
-			<apex:pageBlockSection	title="Update Position" columns="3">
+			<apex:pageBlockSection title="Update Position" columns="3">
 				<apex:inputField value="{!Position__c.name}" />
 				<apex:inputField value="{!Position__c.Status__c}" />
 				<apex:commandButton action="{!save}" value="Update"/>
