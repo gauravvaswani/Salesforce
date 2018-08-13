@@ -1,0 +1,6 @@
+ WARN [2018-08-13 12:52:25,126] (ConnectionFactory.java:clearCache:217) - No cached connections
+ WARN [2018-08-13 12:52:25,150] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+ WARN [2018-08-13 12:52:25,152] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+ WARN [2018-08-13 12:52:50,983] (ConnectionFactory.java:clearCache:217) - No cached connections
+ WARN [2018-08-13 12:52:50,990] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+ WARN [2018-08-13 12:52:50,991] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
