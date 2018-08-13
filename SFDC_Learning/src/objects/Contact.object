@@ -137,6 +137,7 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>FirstName__c</fullName>
         <externalId>false</externalId>
         <label>First Name</label>
@@ -147,6 +148,8 @@
         <unique>false</unique>
     </fields>
     <fields>
+=======
+>>>>>>> master
         <fullName>HasOptedOutOfEmail</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
@@ -179,6 +182,7 @@
         <fullName>LastCUUpdateDate</fullName>
     </fields>
     <fields>
+<<<<<<< HEAD
         <fullName>Last_Name__c</fullName>
         <externalId>false</externalId>
         <label>Last Name</label>
@@ -189,6 +193,8 @@
         <unique>false</unique>
     </fields>
     <fields>
+=======
+>>>>>>> master
         <fullName>LeadSource</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>

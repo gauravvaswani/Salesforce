@@ -36,6 +36,7 @@
                 <behavior>Edit</behavior>
                 <field>LeadSource</field>
             </layoutItems>
+<<<<<<< HEAD
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>FirstName__c</field>
@@ -44,6 +45,8 @@
                 <behavior>Edit</behavior>
                 <field>Last_Name__c</field>
             </layoutItems>
+=======
+>>>>>>> master
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

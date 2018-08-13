@@ -81,6 +81,7 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
+<<<<<<< HEAD
         <apexClass>BankAcct</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -89,6 +90,8 @@
         <enabled>false</enabled>
     </classAccesses>
     <classAccesses>
+=======
+>>>>>>> master
         <apexClass>CustomerOperationClass</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -538,6 +541,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+<<<<<<< HEAD
         <field>Candidate__c.Email__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -553,6 +557,8 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+=======
+>>>>>>> master
         <field>Case.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -718,11 +724,14 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+<<<<<<< HEAD
         <field>Contact.FirstName__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+=======
+>>>>>>> master
         <field>Contact.HasOptedOutOfEmail</field>
         <readable>false</readable>
     </fieldPermissions>
@@ -747,11 +756,14 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+<<<<<<< HEAD
         <editable>false</editable>
         <field>Contact.Last_Name__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+=======
+>>>>>>> master
         <editable>true</editable>
         <field>Contact.LeadSource</field>
         <readable>true</readable>
@@ -1417,9 +1429,12 @@
         <layout>CampaignMember-Campaign Member Page Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+<<<<<<< HEAD
         <layout>Candidate__c-Candidate Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+=======
+>>>>>>> master
         <layout>Case-Case Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -1734,10 +1749,13 @@
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabVisibilities>
+<<<<<<< HEAD
         <tab>Candidate__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
     <tabVisibilities>
+=======
+>>>>>>> master
         <tab>Customer__c</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
