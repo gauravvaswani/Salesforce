@@ -1,0 +1,138 @@
+!SESSION 2018-08-13 12:51:14.422 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\A674542\git\Salesforce\SFDC_Learning -product org.eclipse.epp.package.java.product
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:51:59.536
+!MESSAGE Started Node.js v5.9.1 (V8 v4.6.85.31) in 2.905 s
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.007
+!MESSAGE Loading tern.js...
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.011
+!MESSAGE Loading library ecma5
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.019
+!MESSAGE Loading library browser
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.088
+!MESSAGE Loading library ecma6
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.092
+!MESSAGE Loading plugin doc_comment
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.118
+!MESSAGE Loading plugin aura
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:00.921
+!MESSAGE Tern.js (0.19.0) ready
+
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-08-13 12:52:04.833
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\A674542'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.net 1 0 2018-08-13 12:52:10.359
+!MESSAGE System property https.proxyHost is set to 193.56.47.20 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-08-13 12:52:10.372
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:15.474
+!MESSAGE ':core' project is not available. Please add '<module>:core</module>' to your list of partial build modules. If using para, set 'ide-search-all-files: true' and run 'para refresh'
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:15.609
+!MESSAGE Analyzed Lightning System JavaScript Support in 86.90 ms
+
+!ENTRY com.salesforce.ide.core 2 0 2018-08-13 12:52:25.150
+!MESSAGE  WARN [2018-08-13 12:52:25,126] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-08-13 12:52:25.151
+!MESSAGE  WARN [2018-08-13 12:52:25,150] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-08-13 12:52:25.154
+!MESSAGE  WARN [2018-08-13 12:52:25,152] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
+!SESSION 2018-08-13 12:52:29.702 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-08-13 12:52:41.739
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\A674542'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.069
+!MESSAGE Started Node.js v5.9.1 (V8 v4.6.85.31) in 1.872 s
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.200
+!MESSAGE Loading tern.js...
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.203
+!MESSAGE Loading library ecma5
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.207
+!MESSAGE Loading library browser
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.212
+!MESSAGE Loading library ecma6
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.215
+!MESSAGE Loading plugin doc_comment
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.235
+!MESSAGE Loading plugin aura
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:43.829
+!MESSAGE Tern.js (0.19.0) ready
+
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:44.122
+!MESSAGE ':core' project is not available. Please add '<module>:core</module>' to your list of partial build modules. If using para, set 'ide-search-all-files: true' and run 'para refresh'
+
+!ENTRY mega.js.tern 1 0 2018-08-13 12:52:44.148
+!MESSAGE Analyzed Lightning System JavaScript Support in 24.88 ms
+
+!ENTRY org.eclipse.core.net 1 0 2018-08-13 12:52:47.892
+!MESSAGE System property https.proxyHost is set to 193.56.47.20 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2018-08-13 12:52:47.893
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY com.salesforce.ide.core 2 0 2018-08-13 12:52:50.989
+!MESSAGE  WARN [2018-08-13 12:52:50,983] (ConnectionFactory.java:clearCache:217) - No cached connections
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-08-13 12:52:50.990
+!MESSAGE  WARN [2018-08-13 12:52:50,990] (DescribeObjectRegistry.java:clearCache:660) - No cached describes
+
+
+!ENTRY com.salesforce.ide.core 2 0 2018-08-13 12:52:50.992
+!MESSAGE  WARN [2018-08-13 12:52:50,991] (MetadataFactory.java:clearCache:125) - No cached metadata stubs
+
