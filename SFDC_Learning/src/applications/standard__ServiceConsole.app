@@ -176,21 +176,24 @@
     <tab>Customer__c</tab>
     <tab>Invoice__c</tab>
     <tab>Support_Tree__c</tab>
-<<<<<<< HEAD
     <tab>Candidate__c</tab>
+    <tab>Position__c</tab>
+    <tab>Offers__c</tab>
     <workspaceMappings>
         <mapping>
             <tab>Candidate__c</tab>
         </mapping>
         <mapping>
-=======
-    <workspaceMappings>
-        <mapping>
->>>>>>> master
             <tab>Customer__c</tab>
         </mapping>
         <mapping>
             <tab>Invoice__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Offers__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Position__c</tab>
         </mapping>
         <mapping>
             <tab>Support_Tree__c</tab>
